@@ -13,6 +13,10 @@ Hands-on QA Engineer | Apple iOS Testing | API Endpoints + E2E
 ## 🚀 Currently Learning
 - **Python + Playwright web automation**
 
+## 📜 Certifications
+- CompTIA Security+, January 2026
+- International Software Testing Qualifications Board (ISTQB Certified Tester Foundation)
+- Sun Certified Java Programmer (SCJP)
 
 ## 📄 Resume
 
