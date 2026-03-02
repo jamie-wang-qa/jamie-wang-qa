@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**jamie-wang-qa/jamie-wang-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# QA Portfolio & Learning Journey
 
-Here are some ideas to get you started:
+Hands-on QA Engineer | Apple iOS Testing | API Endpoints + E2E
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📋 Core Experience
+- Test case planning & execution (**App/Web/API endpoints + E2E**)
+- Apple product testing (** US projects**) + US QA bootcamp
+- Bug report writing & tracking (Jira)
+- C# full-stack development background
+
+## 🚀 Currently Learning
+- **Python + Playwright web automation**
+
+
+## 📄 Resume
+
