@@ -9,7 +9,8 @@ Hands-on QA Engineer | Apple iOS Testing | API Endpoints + E2E
 - Apple product testing (** US projects**) + US QA bootcamp
 - Bug report writing & tracking (Jira)
 - C# full-stack development background
-- Basic security testing awareness (OWASP Top 10)
+- Basic API security validation (authentication/authorization)
+
 
 ## 🚀 Currently Building
 - **TypeScript + Playwright**: Web automation for responsive testing [in progress]
