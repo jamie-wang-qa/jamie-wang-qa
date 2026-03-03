@@ -92,4 +92,12 @@ Passionate about ensuring software quality through comprehensive testing and con
 - **Associate Degree in Information Management** - Hwa Hsia University of Technology
 
 
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **Jamie.ph.wang@gmail.com**
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/ping-hsuan-wang-150b4a39/)
+
+
 
