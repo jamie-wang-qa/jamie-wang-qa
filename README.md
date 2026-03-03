@@ -12,7 +12,7 @@ Hands-on QA Engineer | Apple iOS Testing | API Endpoints + E2E
 - Basic security testing awareness (OWASP Top 10)
 
 ## 🚀 Currently Building
-- **TypeScript + Playwright**: Web automation for responsive/device testing [in progress]
+- **TypeScript + Playwright**: Web automation for responsive testing [in progress]
 
 ## Additional Skills
 - Python (currently learning syntax/automation)
