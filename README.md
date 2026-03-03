@@ -13,9 +13,6 @@ Hands-on QA Engineer | Apple iOS Testing | API Endpoints + E2E
 
 ## 🚀 Currently Building
 - **TypeScript + Playwright**: Web automation for responsive testing [in progress]
-
-## Additional Skills
-- Python (currently learning syntax/automation)
   
 ## 📜 Certifications
 - CompTIA Security+, January 2026
