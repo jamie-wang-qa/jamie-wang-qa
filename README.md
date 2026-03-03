@@ -11,9 +11,12 @@ Hands-on QA Engineer | Apple iOS Testing | API Endpoints + E2E
 - C# full-stack development background
 - Basic security testing awareness (OWASP Top 10)
 
-## 🚀 Currently Learning
-- **Python + Playwright web automation**
+## 🚀 Currently Building
+- **TypeScript + Playwright**: Web automation for responsive/device testing [in progress]
 
+## Additional Skills
+- Python (currently learning syntax/automation)
+  
 ## 📜 Certifications
 - CompTIA Security+, January 2026
 - International Software Testing Qualifications Board (ISTQB Certified Tester Foundation)
