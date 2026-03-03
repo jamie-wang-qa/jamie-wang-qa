@@ -10,7 +10,7 @@ Passionate about ensuring software quality through comprehensive testing and con
 
 ### 📋 Key Strengths
 - **Test Case Planning & Execution**: App/Web/API endpoints + E2E via Postman
-- **Device Testing**: Apple product diagnostics + Android/iOS mobile testing
+- **Device Testing**: Apple product diagnostics (US project) + QA bootcamp
 - **Bug Report Writing & Tracking**: Jira/Xray defect management
 - **Development Background**: C# full-stack development experience
 - **API Security Validation**: Authentication/authorization testing
@@ -27,7 +27,7 @@ Passionate about ensuring software quality through comprehensive testing and con
 - **Test Automation**: Basic Playwright, BDD (Cucumber/Gherkin)
 
 ### Technical Analysis
-- **Code Analysis**: Backend code review, understanding system architecture
+- **Grey-Box Testing**: Review backend code to understand business logic and derive test scenarios
 - **Debugging**: Browser DevTools, ADB, SQL queries, system logs
 - **Database**: SQL (Microsoft SQL Server), Data integrity validation
 
