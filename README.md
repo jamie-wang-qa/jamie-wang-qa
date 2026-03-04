@@ -13,7 +13,6 @@ Passionate about ensuring software quality through comprehensive testing and con
 - **Device Testing**: Apple product diagnostics (US project) + QA bootcamp
 - **Bug Report Writing & Tracking**: Jira/Xray defect management
 - **Development Background**: C# full-stack development experience
-- **API Security Validation**: Authentication/authorization testing
 
 ---
 
