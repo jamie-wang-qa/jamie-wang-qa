@@ -27,7 +27,6 @@ Passionate about ensuring software quality through comprehensive testing and con
 - **Test Automation**: Basic Playwright, BDD (Cucumber/Gherkin)
 
 ### Technical Analysis
-- **Grey-Box Testing**: Review backend code to understand business logic and derive test scenarios
 - **Debugging**: Browser DevTools, ADB, SQL queries, system logs
 - **Database**: SQL (Microsoft SQL Server), Data integrity validation
 
