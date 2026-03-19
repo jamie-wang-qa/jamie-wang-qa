@@ -67,10 +67,10 @@ Passionate about ensuring software quality through comprehensive testing and con
 - Utilized ADB commands to capture logs, screenshots, and screen recordings
 - Collaborated with automation engineers to define BDD scenarios using Cucumber/Gherkin
 
-### Product Technician
-**Apple Inc.** (Contract via Volt Workforce Solutions) | *June 2023 – June 2024*
+### Material Handler 3
+**Volt Workforce Solutions**  | *June 2023 – June 2024*
 
-- Performed advanced diagnostics on Apple devices following standard procedures
+- Performed advanced diagnostics on Apple devices (AirPods) following standard procedures
 - Identified root causes of hardware and software failures
 - Evaluated warranty coverage and insurance eligibility
 - Adhered to rigorous Standard Operating Procedures (SOPs)
