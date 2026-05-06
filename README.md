@@ -39,16 +39,24 @@ Passionate about ensuring software quality through comprehensive testing and con
 ---
   
 ## 📜 Certifications
--  **CompTIA Security+** (January 2026)
+-  **CompTIA Security+** 
 -  **ISTQB Certified Tester Foundation** - International Software Testing Qualifications Board
 -  **Sun Certified Java Programmer (SCJP)**
 
 ---
 
 ## 💼 Experience
+### Manual QA Tester
+**Wipro** | *March 2026 – Present*
+- Perform manual testing of Google Nest Hub features using sanity, regression, and build verification test methods.
+- Review functional requirements and feature specifications to understand assigned test areas and expected product behavior.
+- Execute user-focused validation and User Acceptance Testing (UAT) activities to verify core workflows and support release readiness.
+- Use ADB tools to validate device behavior, reproduce reported defects, and assist in root-cause investigation.
+- Record, track, and retest defects in Google Issue Tracker, providing clear documentation of reproduction steps, expected results, actual results, and severity.
+- Collaborate with developers, product stakeholders, and QA team members to verify defect resolution and maintain release quality.
 
 ### Quality Assurance Engineer
-**Bityacht Limited** | *July 2025 – Present*
+**Bityacht Limited** | *July 2025 – March 2026*
 
 - Perform manual functional testing on mobile apps and web applications
 - Design and execute comprehensive test cases based on business requirements
